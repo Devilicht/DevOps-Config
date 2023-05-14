@@ -5,5 +5,5 @@ Em seguida, existem quatro funções que instalas as ferramentas mencionadas aci
 
 Por fim, há um bloco "case" que processa os argumentos fornecidos na linha de comando. Se o argumento corresponder a um dos casos definidos ("install-git", "install-docker", "install-ansible", "install-jenkins" ou "install-all"), ele chama a função apropriada. Caso contrário, exibe uma mensagem de ajuda que lista as opções disponíveis.
 
-### Como usar:
+## Como usar
 É necessario passar um argumento para o script, ao executar o script sem argumento ele ja exibe todos argumentos disponiveis.
